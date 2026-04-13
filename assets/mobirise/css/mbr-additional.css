@@ -786,6 +786,11 @@ a {
 }
 .cid-vgb17tiida {
   display: flex;
+  background-image: url("../../../assets/images/psychological-drama-pitch-deck-layout-cinematic-story-presentation.jpeg");
+}
+.cid-vgb17tiida .mbr-overlay {
+  background-color: #000000;
+  opacity: 0.5;
 }
 @media (min-width: 768px) {
   .cid-vgb17tiida {
